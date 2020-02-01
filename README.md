@@ -9,3 +9,5 @@ laravel -v instalansi laravel dilocal comp
 laravel artisan --version
 php artisan (documentasi laravel)
 - php artisan serve (menjalankan laravel)compile
+
+rm -rf latihan (hapus folder laravel)
