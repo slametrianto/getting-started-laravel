@@ -11,3 +11,8 @@ php artisan (documentasi laravel)
 - php artisan serve (menjalankan laravel)compile
 
 rm -rf latihan (hapus folder laravel)
+
+
+
+#####  composer create-project --prefer-dist laravel/laravel cobaLaravel
+
